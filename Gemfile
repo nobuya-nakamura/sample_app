@@ -6,7 +6,7 @@ gem 'rails', '4.0.5'
 group :development do
   gem 'sqlite3', '1.3.9'
 end
-
+gem 'devise', '3.4.1'
 gem 'sass-rails', '4.0.3'
 gem 'uglifier', '2.5.3'
 gem 'coffee-rails', '4.0.1'
